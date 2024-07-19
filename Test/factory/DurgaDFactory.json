@@ -1,0 +1,9 @@
+{
+	"name": "DurgaDFactory",
+	"location": "northeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "85a7d0e2-9410-4599-bbba-05562ba5a459",
+		"tenantId": "5535718c-74f9-40cb-8a61-a70e94bd0615"
+	}
+}
