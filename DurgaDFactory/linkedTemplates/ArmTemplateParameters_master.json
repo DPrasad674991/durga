@@ -1,0 +1,27 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "DurgaDFactory"
+		},
+		"AzureDataLakeStorage_accountKey": {
+			"value": ""
+		},
+		"DataverseAppRegister_password": {
+			"value": ""
+		},
+		"AzureDataLakeStorage_properties_typeProperties_url": {
+			"value": "https://durgasaccount.dfs.core.windows.net/"
+		},
+		"DataverseAppRegister_properties_typeProperties_username": {
+			"value": "DurgaP@delloite171.onmicrosoft.com"
+		},
+		"containerUri": {
+			"value": ""
+		},
+		"containerSasToken": {
+			"value": ""
+		}
+	}
+}
